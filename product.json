@@ -1,0 +1,15 @@
+{
+  "id": "vendorpulse",
+  "name": "VendorPulse",
+  "tagline": "Manage every vendor relationship with precision",
+  "description": "Enterprise SaaS for vendor relationship management, spend analytics, risk monitoring, and contract tracking.",
+  "version": "1.0.0",
+  "pricing": {
+    "starter": { "monthly_usd": 89, "annual_usd": 890 },
+    "pro": { "monthly_usd": 229, "annual_usd": 2290 },
+    "enterprise": { "monthly_usd": 549, "annual_usd": 5490 }
+  },
+  "website": "https://vendorpulse.io",
+  "category": "Procurement & Vendor Management",
+  "tags": ["vendor-management", "spend-analytics", "risk-monitoring", "contract-tracking", "procurement"]
+}
