@@ -1,0 +1,55 @@
+{
+  "plans": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "price_monthly_usd": 89,
+      "price_annual_usd": 890,
+      "vendor_limit": 25,
+      "features": [
+        "25 vendor profiles",
+        "Spend analytics",
+        "Vendor scorecards",
+        "Contract tracking",
+        "Email alerts",
+        "CSV import/export"
+      ]
+    },
+    {
+      "id": "pro",
+      "name": "Pro",
+      "price_monthly_usd": 229,
+      "price_annual_usd": 2290,
+      "vendor_limit": 200,
+      "features": [
+        "200 vendor profiles",
+        "Everything in Starter",
+        "AI risk monitoring",
+        "AI vendor summaries",
+        "Risk matrix dashboard",
+        "Team collaboration (5 seats)",
+        "API access",
+        "Priority support"
+      ]
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise",
+      "price_monthly_usd": 549,
+      "price_annual_usd": 5490,
+      "vendor_limit": -1,
+      "features": [
+        "Unlimited vendor profiles",
+        "Everything in Pro",
+        "Custom integrations",
+        "SSO / SAML",
+        "Dedicated CSM",
+        "SLA 99.9%",
+        "Unlimited seats",
+        "Custom reporting",
+        "Audit logs",
+        "On-premise option"
+      ]
+    }
+  ]
+}
