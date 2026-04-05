@@ -1,0 +1,16 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "regions": ["iad1"],
+  "env": {
+    "NEXT_PUBLIC_APP_URL": "@app_url"
+  },
+  "crons": [
+    {
+      "path": "/api/cron/risk-scan",
+      "schedule": "0 8 * * *"
+    }
+  ]
+}
