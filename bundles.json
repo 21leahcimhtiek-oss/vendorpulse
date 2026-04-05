@@ -1,0 +1,18 @@
+{
+  "bundles": [
+    {
+      "id": "aurora-ops-suite",
+      "name": "Aurora Ops Suite",
+      "description": "The complete operations stack for modern enterprises — vendor management, financial operations, and beyond.",
+      "products": [
+        { "id": "vendorpulse", "name": "VendorPulse", "role": "Vendor relationship management & spend analytics" },
+        { "id": "finopsiq", "name": "FinOpsIQ", "role": "Financial operations intelligence" }
+      ],
+      "discount_percent": 20,
+      "bundle_price_monthly_usd": 254,
+      "original_price_monthly_usd": 318,
+      "tagline": "Two powerful platforms. One seamless workflow.",
+      "cta": "Get the Aurora Ops Suite"
+    }
+  ]
+}
