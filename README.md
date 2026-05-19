@@ -54,3 +54,11 @@ See [`deploy/vercel-deploy.md`](deploy/vercel-deploy.md) for full deployment ins
 ## License
 
 MIT © VendorPulse
+
+## Aurora Rayes Ecosystem Positioning
+
+This repository is positioned as part of the **Aurora Rayes ecosystem** with a production-oriented delivery posture.
+
+- Keep onboarding and evaluation **no-key-first** where possible.
+- Do not commit secrets, live payment links, or production customer data.
+- Preserve existing package names, import symbols, and repository identifiers for compatibility.
